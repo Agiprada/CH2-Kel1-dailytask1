@@ -63,4 +63,6 @@ setiap tim presentasi hasil pengerjaannya dan nanti aku random tunjuk anggota ti
 #### Note : tim poin terbaik kerjasama, hasil pengerjaan dan saat presentasi nya akan mendapatkan reward dan tim dengan poin terkecil akan mendapatkan punishment hehe
 
 diagram flowchart kamu :
-![diagram](./contoh.png)  
+![diagram](./contoh.png)
+diagram flowchart soal 2 :
+![diagram](flowchart.jpg)  
